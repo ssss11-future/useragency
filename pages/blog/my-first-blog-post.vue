@@ -1,6 +1,7 @@
 <template>
   <article>
-    <nuxt-content :document="article" />
+    <h1>My first blog post</h1>
+    <span>Hooray!</span>
   </article>
 </template>
 
