@@ -1,7 +1,7 @@
 <template>
   <div>
     <Header />
-     <a href="blog.vue">Blog post</a>
+     <a href="blog">Blog post</a>
     <!-- JUMBOTRON -->
     <b-row class="mt-3">
       <b-col></b-col>
